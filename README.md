@@ -23,7 +23,7 @@ This repository demonstrates the capabilities of agent-based modeling through sa
 1. **Lotka–Volterra predator–prey model**
    - **Description**: a pair of first-order nonlinear differential equations, frequently used to describe the dynamics of biological systems in which two species interact, one as a predator and the other as prey.
    - **Key Features**: Interaction between agents, emergent behaviors.
-   - **For more Details of this Model chekout:**[Lotka–Volterra predator–prey model](https://github.com/ashwin-r11/ABM-Samples/PredatorPrey_Model/about_model.md)
+   - **For more Details of this Model chekout:**[Lotka–Volterra predator–prey model](https://github.com/ashwin-r11/ABM-Samples/PredatorPrey_Model/about.md)
 
 ---
 
