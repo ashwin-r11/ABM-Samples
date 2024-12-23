@@ -20,15 +20,11 @@ This repository demonstrates the capabilities of agent-based modeling through sa
 
 ## Simulations
 
-1. **Simulation Name 1**
-   - **Description**: A basic predator-prey model showcasing ecosystem dynamics.
+1. **Lotka–Volterra predator–prey model**
+   - **Description**: a pair of first-order nonlinear differential equations, frequently used to describe the dynamics of biological systems in which two species interact, one as a predator and the other as prey.
    - **Key Features**: Interaction between agents, emergent behaviors.
 
-2. **Simulation Name 2**
-   - **Description**: Traffic flow simulation illustrating congestion patterns.
-   - **Key Features**: Decision-making, adaptive agents.
 
-*(Add more as you expand your collection.)*
 
 ---
 
